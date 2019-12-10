@@ -15,11 +15,10 @@ Syd Rothman
 ### Team Responsibilities
 
 David | Syd
--------------
+---|---
 Brainstorm 3 subject options | Brainstorm 3 subject options
 Choose subject and API | Choose subject and API
 Brainstorm hypotheses options | Brainstorm hypotheses options
- | Set up GitHub repo
 
 
 ### API

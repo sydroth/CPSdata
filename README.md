@@ -27,10 +27,10 @@ https://rapidapi.com/Bukati/api/eBay?endpoint=apiendpoint_afbda030-f966-11e7-847
 
 ### Hypotheses
 
-1.
-2.
-3.
-4.
+1. Most Watched vs. Most Purchased
+2. Popular Searches vs. Most Sold
+3. After market / flipping items for profit
+4. After "reveal" sales trend
 
 ### Notebooks
 

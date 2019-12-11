@@ -28,24 +28,20 @@ https://data.cityofchicago.org/browse?category=Education
 ### Questions + Hypotheses
 
 1. Affordable housing vs. CPS student progress reports
-
-  * Null hypothesis:
-  * Alternate hypothesis:
+   * Null hypothesis:
+   * Alternate hypothesis:
   
-2. 
-
-  * Null hypothesis:
-  * Alternate hypothesis:
+2. question here
+   * Null hypothesis:
+   * Alternate hypothesis:
   
-3.
-
-  * Null hypothesis:
-  * Alternate hypothesis:
+3. questions here
+   * Null hypothesis:
+   * Alternate hypothesis:
   
-4. 
-
-  * Null hypothesis:
-  * Alternate hypothesis:
+4. question here
+   * Null hypothesis:
+   * Alternate hypothesis:
   
 
 ### Notebooks

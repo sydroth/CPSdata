@@ -1,8 +1,8 @@
-# eBay
+# CPS Data
 
 ### Project Goals
 
-Using data gathered from the eBay API, we will deliver four actionable insights derived from hypotheses testing and data analysis. 
+Using data gathered from the City of Chicago data portal, we will deliver four actionable insights derived from hypotheses testing and data analysis. 
 
 Below we have included our project members, team responsibiliites, and a summary of all project files.
 
@@ -18,19 +18,35 @@ David | Syd
 ---|---
 Brainstorm 3 subject options | Brainstorm 3 subject options
 Choose subject and API | Choose subject and API
-Brainstorm hypotheses options | Brainstorm hypotheses options
+Develop 2 questions | Develop 2 questions
 
 
 ### API
 
-https://rapidapi.com/Bukati/api/eBay?endpoint=apiendpoint_afbda030-f966-11e7-847f-a7b04b853fafgetOrders
+https://data.cityofchicago.org/browse?category=Education
 
-### Hypotheses
+### Questions + Hypotheses
 
-1. Most Watched vs. Most Purchased
-2. Popular Searches vs. Most Sold
-3. After market / flipping items for profit
-4. After "reveal" sales trend
+1. Affordable housing vs. CPS student progress reports
+
+  * Null hypothesis:
+  * Alternate hypothesis:
+  
+2. 
+
+  * Null hypothesis:
+  * Alternate hypothesis:
+  
+3.
+
+  * Null hypothesis:
+  * Alternate hypothesis:
+  
+4. 
+
+  * Null hypothesis:
+  * Alternate hypothesis:
+  
 
 ### Notebooks
 
